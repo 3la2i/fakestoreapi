@@ -53,3 +53,4 @@ fetch("https://fakestoreapi.com/products")
   });
 
 // console.log(product);
+
